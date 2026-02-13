@@ -1,0 +1,3 @@
+.chromadb/
+__pycache__/
+*.pyc
